@@ -80,8 +80,8 @@
 
 ### Экран списка пользователей
 
-![Экран списка пользователей](images/user_list.png)
+<img src="images/user_list.png" alt="Экран списка пользователей" width="320"/>
 
 ### Экран деталей пользователя
 
-![Экран деталей пользователя](images/user_details.png)
+<img src="images/user_details.png" alt="Экран деталей пользователя" width="320"/>
