@@ -1,0 +1,10 @@
+<resources>
+    <!-- Screen title -->
+    <string name="screen_title_user_list">Users</string>
+    <string name="screen_title_user_details">Details</string>
+
+    <!-- Error -->
+    <string name="error_screen_title">Something went wrong</string>
+    <string name="error_screen_description">The data could not be uploaded. Try again later.</string>
+    <string name="retry_button_text">Try again</string>
+</resources>

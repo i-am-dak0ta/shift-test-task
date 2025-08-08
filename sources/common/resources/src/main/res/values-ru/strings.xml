@@ -1,0 +1,10 @@
+<resources>
+    <!-- Screen title -->
+    <string name="screen_title_user_list">Пользователи</string>
+    <string name="screen_title_user_details">Детали</string>
+
+    <!-- Error -->
+    <string name="error_screen_title">Что-то пошло не так</string>
+    <string name="error_screen_description">Не удалось загрузить данные. Попробуйте снова позже.</string>
+    <string name="retry_button_text">Попробовать снова</string>
+</resources>
